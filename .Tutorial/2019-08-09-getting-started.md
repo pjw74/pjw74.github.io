@@ -1,12 +1,21 @@
----
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
-pin: true
-img_path: '/posts/20180809'
----
+
+[//]: # (---)
+
+[//]: # (title: Getting Started)
+
+[//]: # (author: cotes)
+
+[//]: # (date: 2019-08-09 20:55:00 +0800)
+
+[//]: # (categories: [Blogging, Tutorial])
+
+[//]: # (tags: [getting started])
+
+[//]: # (pin: true)
+
+[//]: # (img_path: '/posts/20180809')
+
+[//]: # (---)
 
 ## Prerequisites
 
@@ -18,7 +27,7 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 
 There are two ways to create a new repository for this theme:
 
-- [**Using the Chirpy Starter**](#option-1-using-the-chirpy-starter) - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
+[//]: # (- [**Using the Chirpy Starter**]&#40;#option-1-using-the-chirpy-starter&#41; - Easy to upgrade, isolates irrelevant project files so you can focus on writing.)
 - [**GitHub Fork**](#option-2-github-fork) - Convenient for custom development, but difficult to upgrade. Unless you are familiar with Jekyll and are determined to tweak or contribute to this project, this approach is not recommended.
 
 #### Option 1. Using the Chirpy Starter
@@ -101,7 +110,8 @@ Now you can choose _ONE_ of the following methods to deploy your Jekyll site.
 There are a few things to get ready for.
 
 - If you're on the GitHub Free plan, keep your site repository public.
-- If you have committed `Gemfile.lock`{: .filepath} to the repository, and your local machine is not running Linux, go the the root of your site and update the platform list of the lock-file:
+
+[//]: # (- If you have committed `Gemfile.lock`{: .filepath} to the repository, and your local machine is not running Linux, go the the root of your site and update the platform list of the lock-file:)
 
   ```console
   $ bundle lock --add-platform x86_64-linux
@@ -110,8 +120,9 @@ There are a few things to get ready for.
 Next, configure the _Pages_ service.
 
 1. Browse to your repository on GitHub. Select the tab _Settings_, then click _Pages_ in the left navigation bar. Then, in the **Source** section (under _Build and deployment_), select [**GitHub Actions**][pages-workflow-src] from the dropdown menu.  
-![Build source](pages-source-light.png){: .light .border .normal w='375' h='140' }
-![Build source](pages-source-dark.png){: .dark .normal w='375' h='140' }
+
+[//]: # (![Build source]&#40;pages-source-light.png&#41;{: .light .border .normal w='375' h='140' })
+[//]: # (![Build source]&#40;pages-source-dark.png&#41;{: .dark .normal w='375' h='140' })
 
 2. Push any commits to GitHub to trigger the _Actions_ workflow. In the _Actions_ tab of your repository, you should see the workflow _Build and Deploy_ running. Once the build is complete and successful, the site will be deployed automatically.
 
