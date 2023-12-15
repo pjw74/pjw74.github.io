@@ -24,19 +24,5 @@ tags: [Analytics, AdSence]
 
 
 
-<script src="https://giscus.app/client.js"
-        data-repo="pjw74/pjw74.github.io"
-        data-repo-id="R_kgDOK5uMoA"
-        data-category="General"
-        data-category-id="DIC_kwDOK5uMoM4CbwLH"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="noborder_dark"
-        data-lang="ko"
-        crossorigin="anonymous"
-        async>
-</script>
+
 
