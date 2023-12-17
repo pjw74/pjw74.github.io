@@ -79,21 +79,21 @@ avatar: "/commons/avatar.jpg"
 toc: true
 
 comments:
-  active:
+  active: giscus
   # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: ... # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
+    repo: ... # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:
-    repo_id:
-    category:
-    category_id:
+    repo: pjw74/blog-comments
+    repo_id: R_kgDOK6pKbg
+    category: Comments
+    category_id: DIC_kwDOK6pKbs4CbznQ
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
