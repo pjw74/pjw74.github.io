@@ -79,7 +79,7 @@ avatar: "/commons/avatar.jpg"
 toc: true
 
 comments:
-  active: giscus
+  active:
   # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
@@ -90,10 +90,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: pjw74/pjw74.github.io
-    repo_id: R_kgDOK5uMoA
-    category: General
-    category_id: DIC_kwDOK5uMoM4CbwLH
+    repo:
+    repo_id:
+    category:
+    category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
