@@ -1,19 +1,11 @@
 ---
-title: Google 검색 노출, AdSence, Analytics
+title: Google Analytics, AdSence
 author:
 date: 2023-10-23
 categories: [Blog]
 tags: [Analytics, AdSence]
 ---
 
-
-1. 검색 노출
-
-
-
-
-2. AdSence
-3. Analytics
 
 
 
