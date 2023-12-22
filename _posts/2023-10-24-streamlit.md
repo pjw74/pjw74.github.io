@@ -1,5 +1,5 @@
 ---
-title: streamlit를 이용한 설문조사지 구현
+title: streamlit를 이용한 설문지 구현
 author:
 date: 2023-10-23
 categories: [side project]
@@ -8,7 +8,7 @@ tags: [streamlit, spreadsheet]
 
 # streamlit + spreadsheet 연동
 
-아는 형님 부탁으로 간단한 설문조사지를 구현한 것을 정리
+아는 형님 부탁으로 간단한 설문지를 구현한 것을 정리
 
 ## 정의
 1. excel로 작성한 설문지 -> 프린트하는 번거러움
@@ -32,4 +32,15 @@ tags: [streamlit, spreadsheet]
 
 1. 스프레드시트 이미지
 
-[//]: # (![img-description]&#40;/path/to/image&#41;)
+![img-description](/assets/img/1.png)
+
+
+
+
+
+
+
+
+[참고 1](https://www.youtube.com/watch?v=HwxrXnYVIlU)
+[참고 2](https://www.youtube.com/watch?v=xQwDfW7UHMo&list=TLGGAxN0dA-LUZ8wNDEyMjAyMw&t=370s)
+
